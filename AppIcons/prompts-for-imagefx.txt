@@ -1,0 +1,23 @@
+Create a simple, friendly design for "IlluMefy", a platform for discovering gaming influencers:
+
+1. Simple Tag Design:
+   - A clean, minimalist tag/label shape as the main element and it's background is transparent
+   - The tag has a small hole at one end (like a real price tag)
+   - A subtle glow or light effect emanating from the tag
+
+2. Color approach:
+   - A fresh aqua blue to teal gradient as the primary color scheme
+   - The gradient should flow smoothly from lighter aqua to slightly deeper teal
+   - Optional: very subtle accents of white or silver for highlights
+
+3. Visual simplicity:
+   - Clean, modern design with smooth edges
+   - No complex patterns - focus on the iconic tag shape
+   - Should be instantly recognizable even at small sizes
+
+4. Style reference:
+   - Clean and modern like popular apps
+   - Professional but friendly look
+   - The aqua/teal color should give a fresh, technological feel while remaining approachable
+
+The icon should be simple enough to be immediately understood and remembered. It should convey the concept of tagging and discovery while maintaining a light, modern aesthetic with the refreshing aqua blue color palette. abstract minimal don't create extra space around of the main image
